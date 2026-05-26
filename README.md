@@ -43,8 +43,8 @@ Built with **FastAPI** (Python) and **React** (Vite).
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/university-system.git
-cd university-system
+git clone [https://github.com/yourusername/university-system.git](https://github.com/Sumanth-YM/Course_Registration_System)
+cd Course_Registration_System
 ```
 
 ### 2. Backend Setup
